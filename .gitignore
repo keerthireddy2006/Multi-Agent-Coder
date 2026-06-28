@@ -1,0 +1,9 @@
+.env
+__pycache__/
+venv/
+*.pyc
+todo_app/
+binary_search/
+fact.py
+hello.py
+agent.ipynb
